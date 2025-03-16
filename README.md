@@ -1,4 +1,4 @@
-# n8n-pos-operatorio
+# n8n-pós-operátorio
 Fluxo do n8n para automatizar atendimento de pós-operatório de clínica de cirurgia plástica.
 
 ## Visão Geral do Fluxo
