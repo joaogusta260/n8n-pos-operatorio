@@ -3,7 +3,7 @@ Fluxo do n8n para automatizar atendimento de pós-operatório de clínica de cir
 
 ## Visão Geral do Fluxo
 
-Na imagem abaixo, é possível ver que o fluxo está dividido em **cinco grandes seções** (cada cor representa um bloco lógico):
+Na imagem abaixo, é possível ver que o fluxo está dividido em **quatro grandes seções** (cada cor representa um bloco lógico):
 ![Fluxo do n8n](./ia%20pos%20operatorio.png)
 
 
